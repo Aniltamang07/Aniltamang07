@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aniltamang
+- 👋 Hi, I’m Anil Tamang
 - 👀 I’m interested in Passionate About Data & Insights 📊
 - 🌱 I’m currently learning Data Analysis and finance
 -🌍📧 Email: [Xe.dong07@gmail.com]
